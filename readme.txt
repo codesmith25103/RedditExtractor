@@ -3,9 +3,10 @@
 1. **Install dependencies**
 
 ```bash
+Make virtual enviornment
 pip install -r requirements.txt
 
-Create a .env file in your project root with your Reddit API credentials:
+2.Create a .env file in your project root with your Reddit API credentials:
 
 REDDIT_CLIENT_ID=your_client_id
 REDDIT_CLIENT_SECRET=your_client_secret
